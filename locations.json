@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "name": "Lagos University Teaching Hospital",
+    "category": "hospital",
+    "lat": 6.5175,
+    "lng": 3.3619,
+    "address": "Ishaga Road, Idi-Araba, Lagos",
+    "phone": "+234 1 234 5678",
+    "hours": "24 hours"
+  },
+  {
+    "id": 2,
+    "name": "Lagos State University Teaching Hospital",
+    "category": "hospital",
+    "lat": 6.5963,
+    "lng": 3.3525,
+    "address": "1-5 Oba Akinjobi Way, Ikeja, Lagos",
+    "phone": "+234 1 234 5679",
+    "hours": "24 hours"
+  },
+  {
+    "id": 3,
+    "name": "Lagos Island General Hospital",
+    "category": "hospital",
+    "lat": 6.4545,
+    "lng": 3.3935,
+    "address": "Broad Street, Odan, Lagos Island",
+    "hours": "24 hours"
+  },
+  {
+    "id": 4,
+    "name": "Reddington Hospital",
+    "category": "hospital",
+    "lat": 6.4318,
+    "lng": 3.4232,
+    "address": "12 Idowu Martins Street, Victoria Island, Lagos",
+    "phone": "+234 1 234 5680",
+    "hours": "24 hours"
+  },
+  {
+    "id": 5,
+    "name": "Federal Medical Centre Ebute-Metta",
+    "category": "hospital",
+    "lat": 6.4853,
+    "lng": 3.3782,
+    "address": "Olonode Street, Ebute-Metta, Lagos",
+    "hours": "24 hours"
+  },
+  {
+    "id": 6,
+    "name": "Gbagada General Hospital",
+    "category": "hospital",
+    "lat": 6.5540,
+    "lng": 3.3920,
+    "address": "Hospital Road, Gbagada, Lagos",
+    "phone": "+234 1 234 5681"
+  },
+  {
+    "id": 7,
+    "name": "Evercare Hospital Lekki",
+    "category": "hospital",
+    "lat": 6.4360,
+    "lng": 3.4815,
+    "address": "Admiralty Way, Lekki Phase 1, Lagos",
+    "phone": "+234 1 234 5682",
+    "hours": "24 hours"
+  },
+  {
+    "id": 8,
+    "name": "HealthPlus Pharmacy Ikeja City Mall",
+    "category": "pharmacy",
+    "lat": 6.6143,
+    "lng": 3.3580,
+    "address": "Ikeja City Mall, Obafemi Awolowo Way, Alausa, Ikeja",
+    "phone": "+234 1 234 5683",
+    "hours": "9am - 9pm"
+  },
+  {
+    "id": 9,
+    "name": "MedPlus Pharmacy Lekki",
+    "category": "pharmacy",
+    "lat": 6.4470,
+    "lng": 3.4720,
+    "address": "Admiralty Way, Lekki Phase 1, Lagos",
+    "phone": "+234 1 234 5684",
+    "hours": "8am - 10pm"
+  },
+  {
+    "id": 10,
+    "name": "Alpha Pharmacy Allen Avenue",
+    "category": "pharmacy",
+    "lat": 6.6000,
+    "lng": 3.3530,
+    "address": "Allen Avenue, Ikeja, Lagos",
+    "hours": "8am - 9pm"
+  },
+  {
+    "id": 11,
+    "name": "HealthPlus Pharmacy The Palms",
+    "category": "pharmacy",
+    "lat": 6.4355,
+    "lng": 3.4497,
+    "address": "The Palms Shopping Mall, Lekki, Lagos",
+    "phone": "+234 1 234 5685",
+    "hours": "10am - 9pm"
+  },
+  {
+    "id": 12,
+    "name": "MedPlus Pharmacy Surulere",
+    "category": "pharmacy",
+    "lat": 6.4930,
+    "lng": 3.3570,
+    "address": "Adeniran Ogunsanya Street, Surulere, Lagos",
+    "phone": "+234 1 234 5686"
+  },
+  {
+    "id": 13,
+    "name": "Alpha Pharmacy Victoria Island",
+    "category": "pharmacy",
+    "lat": 6.4295,
+    "lng": 3.4220,
+    "address": "Adeola Odeku Street, Victoria Island, Lagos",
+    "phone": "+234 1 234 5687",
+    "hours": "8am - 9pm"
+  },
+  {
+    "id": 14,
+    "name": "MedPlus Pharmacy Ikoyi",
+    "category": "pharmacy",
+    "lat": 6.4480,
+    "lng": 3.4330,
+    "address": "Awolowo Road, Ikoyi, Lagos",
+    "hours": "8am - 10pm"
+  },
+  {
+    "id": 15,
+    "name": "NNPC Filling Station Alfred Rewane",
+    "category": "fuel",
+    "lat": 6.4465,
+    "lng": 3.4330,
+    "address": "Alfred Rewane Road, Ikoyi, Lagos",
+    "hours": "24 hours"
+  },
+  {
+    "id": 16,
+    "name": "TotalEnergies Service Station Ozumba Mbadiwe",
+    "category": "fuel",
+    "lat": 6.4390,
+    "lng": 3.4200,
+    "address": "Ozumba Mbadiwe Avenue, Victoria Island, Lagos",
+    "phone": "+234 1 234 5688",
+    "hours": "6am - 10pm"
+  },
+  {
+    "id": 17,
+    "name": "MRS Filling Station Maryland",
+    "category": "fuel",
+    "lat": 6.5720,
+    "lng": 3.3660,
+    "address": "Ikorodu Road, Maryland, Lagos",
+    "hours": "6am - 10pm"
+  },
+  {
+    "id": 18,
+    "name": "Conoil Filling Station Ojuelegba",
+    "category": "fuel",
+    "lat": 6.5090,
+    "lng": 3.3650,
+    "address": "Ojuelegba Road, Surulere, Lagos"
+  },
+  {
+    "id": 19,
+    "name": "Oando Filling Station Lekki-Epe Expressway",
+    "category": "fuel",
+    "lat": 6.4450,
+    "lng": 3.4900,
+    "address": "Lekki-Epe Expressway, Lekki, Lagos",
+    "phone": "+234 1 234 5689",
+    "hours": "24 hours"
+  },
+  {
+    "id": 20,
+    "name": "Ardova Filling Station Mushin",
+    "category": "fuel",
+    "lat": 6.5320,
+    "lng": 3.3500,
+    "address": "Agege Motor Road, Mushin, Lagos",
+    "hours": "6am - 9pm"
+  },
+  {
+    "id": 21,
+    "name": "TotalEnergies Service Station Ikeja GRA",
+    "category": "fuel",
+    "lat": 6.5810,
+    "lng": 3.3570,
+    "address": "Joel Ogunnaike Street, Ikeja GRA, Lagos",
+    "phone": "+234 1 234 5690",
+    "hours": "24 hours"
+  },
+  {
+    "id": 22,
+    "name": "Ojota Bus Terminal",
+    "category": "transport",
+    "lat": 6.5870,
+    "lng": 3.3790,
+    "address": "Ikorodu Road, Ojota, Lagos",
+    "hours": "5am - 11pm"
+  },
+  {
+    "id": 23,
+    "name": "CMS Bus Terminal",
+    "category": "transport",
+    "lat": 6.4515,
+    "lng": 3.3905,
+    "address": "Marina, Lagos Island",
+    "hours": "5am - 11pm"
+  },
+  {
+    "id": 24,
+    "name": "Oshodi Transport Interchange",
+    "category": "transport",
+    "lat": 6.5550,
+    "lng": 3.3440,
+    "address": "Oshodi-Apapa Expressway, Oshodi, Lagos",
+    "phone": "+234 1 234 5691",
+    "hours": "5am - 11pm"
+  },
+  {
+    "id": 25,
+    "name": "Ikeja Bus Terminal",
+    "category": "transport",
+    "lat": 6.6010,
+    "lng": 3.3450,
+    "address": "Obafemi Awolowo Way, Ikeja, Lagos"
+  },
+  {
+    "id": 26,
+    "name": "Blue Line Marina Station",
+    "category": "transport",
+    "lat": 6.4520,
+    "lng": 3.3890,
+    "address": "Marina, Lagos Island",
+    "hours": "6am - 10pm"
+  },
+  {
+    "id": 27,
+    "name": "Ikorodu BRT Terminal",
+    "category": "transport",
+    "lat": 6.6190,
+    "lng": 3.5080,
+    "address": "Ikorodu Garage, Ikorodu, Lagos",
+    "hours": "5am - 10pm"
+  },
+  {
+    "id": 28,
+    "name": "TBS Bus Terminal",
+    "category": "transport",
+    "lat": 6.4480,
+    "lng": 3.4000,
+    "address": "Tafawa Balewa Square, Onikan, Lagos Island",
+    "phone": "+234 1 234 5692",
+    "hours": "5am - 11pm"
+  }
+]
